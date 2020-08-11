@@ -1,0 +1,33 @@
+body {
+    font: 25px Arial, sans-serif;
+
+}
+.navbar {
+
+    background-color: #8585ad;
+    font-size: 18px;
+
+}
+
+.quem-somos {
+    background-color: lightseagreen;
+
+}
+.margin {    
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.contato {
+    background-color: mediumpurple;
+}
+
+.bg-footer {
+    background-color: rgb(236, 198, 114);
+    font-size: 12px;
+    color: rgb(39, 53, 11);
+    padding-top: 50px;
+}
+
+.servicos {
+    background-color: moccasin;
+}
